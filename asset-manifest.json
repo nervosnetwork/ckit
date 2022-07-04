@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ckit/static/css/main.b02fdfa6.chunk.css",
+    "main.js": "/ckit/static/js/main.ae9222dc.chunk.js",
+    "main.js.map": "/ckit/static/js/main.ae9222dc.chunk.js.map",
+    "runtime-main.js": "/ckit/static/js/runtime-main.59a447c5.js",
+    "runtime-main.js.map": "/ckit/static/js/runtime-main.59a447c5.js.map",
+    "static/js/2.8bef4f56.chunk.js": "/ckit/static/js/2.8bef4f56.chunk.js",
+    "static/js/2.8bef4f56.chunk.js.map": "/ckit/static/js/2.8bef4f56.chunk.js.map",
+    "static/js/3.74c350b3.chunk.js": "/ckit/static/js/3.74c350b3.chunk.js",
+    "static/js/3.74c350b3.chunk.js.map": "/ckit/static/js/3.74c350b3.chunk.js.map",
+    "index.html": "/ckit/index.html",
+    "static/css/main.b02fdfa6.chunk.css.map": "/ckit/static/css/main.b02fdfa6.chunk.css.map",
+    "static/js/2.8bef4f56.chunk.js.LICENSE.txt": "/ckit/static/js/2.8bef4f56.chunk.js.LICENSE.txt",
+    "static/media/App.less": "/ckit/static/media/Lato-Regular.9919edff.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a447c5.js",
+    "static/js/2.8bef4f56.chunk.js",
+    "static/css/main.b02fdfa6.chunk.css",
+    "static/js/main.ae9222dc.chunk.js"
+  ]
+}
